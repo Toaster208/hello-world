@@ -11,4 +11,4 @@ async def on_ready():
 async def on_reaction_add():
     
 
-client.run('MTAwNjYwNDI2NjMzODc4NzM5MQ.GbZOFv.LShB1Ni336rR1DlzsMlTaymFwmloETLF1fl1Bw')
+# client.run('MTAwNjYwNDI2NjMzODc4NzM5MQ.GbZOFv.LShB1Ni336rR1DlzsMlTaymFwmloETLF1fl1Bw');
